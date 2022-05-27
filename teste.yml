@@ -11,4 +11,4 @@ jobs:
       - name: Script de várias linhas
         run: |
           node -v
-          npm -vein
+          npm -v
